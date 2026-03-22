@@ -1,3 +1,7 @@
+# brainstorming about the eco-datacenter
+
+## emergent stream of consciousness
+
 data-center ideas: migrate the architectural logic toward ecological and social dynamics that include mutualism with the biome and entities around.
 
 away from residential houses and biodiverse biomes, with impact study and proposal showing how that integration will interact with the enviroment, and how each step is sustainable. 
