@@ -55,7 +55,7 @@ the Catch: SSI has explicitly stated they will not release any consumer products
 Noam Shazeer was an early Google employee who co-authored the famous 2017 "Attention Is All You Need" paper that invented the Transformer (the "T" in ChatGPT)[9]. He left Google to found Character.ai[10](https://indianexpress.com/article/explained/explained-sci-tech/noam-shazeer-google-2-7-billion-ai-9591775/).
 
 The Absurdity: In late 2024, Google was so desperate to get him back to lead their Gemini AI project that they paid $2.7 billion[9](https://www.entrepreneur.com/business-news/google-rehires-ai-pioneer-noam-shazeer-in-27-billion-deal/480378) [10](https://indianexpress.com/article/explained/explained-sci-tech/noam-shazeer-google-2-7-billion-ai-9591775/).
-Google didn't even buy his company. To avoid monopoly lawsuits, Google technically paid $2.7 billion just to "license" Character.ai's technology and hire Shazeer and his co-founder[9][10]. It was effectively a multi-billion-dollar signing bonus for one guy.
+Google didn't even buy his company. To avoid monopoly lawsuits, Google technically paid $2.7 billion just to "license" Character.ai's technology and hire Shazeer and his co-founder[9](https://www.entrepreneur.com/business-news/google-rehires-ai-pioneer-noam-shazeer-in-27-billion-deal/480378) [10](https://indianexpress.com/article/explained/explained-sci-tech/noam-shazeer-google-2-7-billion-ai-9591775/). It was effectively a multi-billion-dollar signing bonus for one guy.
 
 look at sheer scale of concentration.
 
