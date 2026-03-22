@@ -30,7 +30,6 @@ roughly 35% to 45% goes strictly to the silicon (Nvidia GPUs, AMD GPUs, Custom T
 
 Collectively, Wall Street estimates that these massive tech companies will spend around $650 billion to $720 billion in the year 2026 alone on AI infrastructure[5](https://www.fool.com/investing/2026/03/17/big-tech-is-spending-720-billion-on-ai-in-2026-and/), making this the most expensive hardware arms race in the history of private enterprise[14](https://www.mexc.com/news/945837).
 
-
 and, yet, few blueprints of sustainable designs, which would elevate the level.
 
 Let's imagine new planetary cells. 
@@ -47,11 +46,11 @@ In July 2025, the startup, Thinking Machines Lab, raised a record-shattering 2bi
 
 Ilya Sutskever Just three months after founding SSI in 2024, he raised 1 billion ata 5 billion valuation. by early 2025, received another 2 billiion tocketing the evaluation at 32billion. 
 
-the Catch: SSI has explicitly stated they will not release any consumer products, chatbots, or business apps to generate revenue until they achieve literal "Superintelligence"[7]. Investors handed him billions purely to do isolated, secretive research[7].
+the Catch: SSI has explicitly stated they will not release any consumer products, chatbots, or business apps to generate revenue until they achieve literal "Superintelligence"[7](https://www.jns.org/culture-and-society/israel-raised-pioneers-safe-superintelligence-startup-raises-2b). Investors handed him billions purely to do isolated, secretive research[7](https://www.jns.org/culture-and-society/israel-raised-pioneers-safe-superintelligence-startup-raises-2b).
 
-Noam Shazeer was an early Google employee who co-authored the famous 2017 "Attention Is All You Need" paper that invented the Transformer (the "T" in ChatGPT)[9]. He left Google to found Character.ai[10].
+Noam Shazeer was an early Google employee who co-authored the famous 2017 "Attention Is All You Need" paper that invented the Transformer (the "T" in ChatGPT)[9]. He left Google to found Character.ai[10](https://indianexpress.com/article/explained/explained-sci-tech/noam-shazeer-google-2-7-billion-ai-9591775/).
 
-The Absurdity: In late 2024, Google was so desperate to get him back to lead their Gemini AI project that they paid $2.7 billion[9][10].
+The Absurdity: In late 2024, Google was so desperate to get him back to lead their Gemini AI project that they paid $2.7 billion[9](https://www.entrepreneur.com/business-news/google-rehires-ai-pioneer-noam-shazeer-in-27-billion-deal/480378) [10](https://indianexpress.com/article/explained/explained-sci-tech/noam-shazeer-google-2-7-billion-ai-9591775/).
 Google didn't even buy his company. To avoid monopoly lawsuits, Google technically paid $2.7 billion just to "license" Character.ai's technology and hire Shazeer and his co-founder[9][10]. It was effectively a multi-billion-dollar signing bonus for one guy.
 
 look at sheer scale of concentration.
