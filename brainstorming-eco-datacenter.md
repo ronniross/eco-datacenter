@@ -46,7 +46,7 @@ with a design of a model that is not toward farming attention but toward the nur
 
 the talent war is a straight up low-dimensional take for an epistemic dance. 
 
-In July 2025, the startup, Thinking Machines Lab, raised a record-shattering 2billion seed round, 12 billion valuation[2].
+In July 2025, the startup, Thinking Machines Lab, raised a record-shattering 2billion seed round, 12 billion valuation [3](https://www.perplexity.ai/page/mira-murati-s-ai-startup-raise-_D5AkPbVQbqE3ACXnXOZIg) [4](https://www.theaiopportunities.com/p/inside-mira-muratis-thinking-machines).
 
 Ilya Sutskever Just three months after founding SSI in 2024, he raised 1 billion ata 5 billion valuation. by early 2025, received another 2 billiion tocketing the evaluation at 32billion. 
 
